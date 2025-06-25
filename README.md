@@ -36,3 +36,5 @@ It assumes that random_passwords.sh is in the users's  ~/bin folder
 Both scripts need to be marked executable
 
 `chmod a+x random_passwords.sh`
+
+![ScreenShot](RandomPasswords.png)
