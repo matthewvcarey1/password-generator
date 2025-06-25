@@ -29,7 +29,7 @@ Dependency on kdialog
 
 It assumes that random_passwords.sh is in the users's  ~/bin folder 
 
-`/home/${USER}/bin/Random_passwords.sh` 
+`/home/${USER}/bin/random_passwords.sh` 
 
 
 
